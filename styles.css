@@ -61,3 +61,7 @@ a {
     background-color: lightgray; /* Line color */
     margin: 20px auto; /* Centers the line and adds spacing */
 }
+
+#kuvakollaasi {
+    align-items: center;
+}
